@@ -1,6 +1,6 @@
-<h1 align="center">Hi, there! 👋</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Hiren Kavad👋</h1>
 
-<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
+<h5 align="center">I am a Full-Stack Software Engineer with 11+ years of experience in various areas of software development. Expert in Generative AI, Blockchain, Cloud, Full Stack Development using Node.js, Laravel, Python and React. Passionate for solving challenging problems and building things that make a difference. Worked in various roles across different stages of developing products and services. Involved in project ideation, system design, implementation and deployments of scalable solutions.</h5>
 
 ## 💪 Overview
 
@@ -12,6 +12,10 @@
   <a href="https://github.com/hironate/hironate" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
   </a>
+
+  <a href="https://github.com/hironate/hironate" >
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
+  </a>
   
  </p>
  
@@ -21,7 +25,6 @@
  </p>
  
 <br />
-
 
 ## 📖 Languages
 
