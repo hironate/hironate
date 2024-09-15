@@ -13,10 +13,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
   </a>
 
-  <a href="https://github.com/hironate/hironate" >
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=hironate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hironate's GitHub Stats" height="180px"/>
-  </a>
-  
  </p>
  
  <p>
